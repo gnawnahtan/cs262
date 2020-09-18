@@ -1,7 +1,0 @@
-#macOS files
-
-.DS_store
-
-#Application Specific files
-
-node_modules/
