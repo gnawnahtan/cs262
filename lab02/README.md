@@ -1,7 +1,9 @@
-#CS-262 Lab 2: Project Management
+# CS-262 Lab 2: Project Management
 
 Author: Nathan Wang
+
 Date: Sept. 12. 2020
+
 Course: CS-262
 
 ## Description
