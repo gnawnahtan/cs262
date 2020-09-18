@@ -1,4 +1,4 @@
-#CS-262 Lab 1: Introduction
+# CS-262 Lab 1: Introduction
 
 Author: Nathan Wang
 Date: Sept. 04. 2020
