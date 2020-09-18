@@ -8,7 +8,7 @@ Course: CS-262
 
 ## Description
 
-This lab is based on [lab02] (https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html)
+This lab is based on [lab02](https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html)
 
 ### App.js
 
