@@ -1,0 +1,9 @@
+CS-262
+Sept. 04. 2020
+Nathan Wang
+
+Exercise 1.1
+
+1) I think an application that allows you to track the shows that you've watched would be pretty cool. For example, there are so many TV shows out there, but there aren't many user-friendly movie/episode trackers. I tried using IMDb's "List" feature, but it wasn't very good; it would simply add the entire TV show, not let me mark off individual episodes. I'd want the application to also show previews/trailers for any of the shows/movies that the user wants. Another application that I thought about involves a version of SlatePermutate that allows you to create a four year plan that helps you determine whether or not you can complete a double-major or additional minors, based on the current completed courses that you have.
+
+2) One wacky application would be one that tracks all of your activities, kinda similar to an automatic "journal/activity logger" that some video games have. That way, your life is automatically chronicled log and for people who want to read your biography when you die, they can, or your grandkids for example.

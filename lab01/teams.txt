@@ -1,0 +1,21 @@
+CS-262
+Sept. 04. 2020
+
+Exercise 1.2
+
+1. Demographics:
+  a. I'm a junior
+  b. I'm double majoring in B.CS and BS. Accounting
+  c. I got an A in CS-112, and I'm currently taking CS-212
+
+2. Technical
+  a. I haven't worked with either at all.
+  b. I've used Slack for Calvin Hacks, Trello for my office assisstant job in the music department, and Git/GitHub for CalvinHacks and a mini personal project. 
+  c. I want to work on a project that most people can use. For example, a movie/tv show tracker. Another thing I thought about working on is a version of SlatePermutate, but on crack: it would be able to determine if you can fit in another major, or another minor, and what courses can fit into your current four-year plan with the time you have remaining in your schedule. 
+
+3. Personality
+  a. Openness seems to be the big one; I've been given the title Empathic Idealist
+  b. I'd really like to be with Zach Chin, Advait Scaria, and Hyechan Jun. 
+
+4. Working on a project with these people would be great as we live in the same apartment together (two of those three whom I listed). 
+
