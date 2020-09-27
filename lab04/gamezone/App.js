@@ -25,7 +25,10 @@ export default function App() {
     );
   } else {
     return (
-      <AppLoading startAsync={getFonts} onFinish={() => setFontsLoaded(true)} /> //changes the state to true
+      <AppLoading
+        startAsync={getFonts}
+        onFinish={() => setsFontsLoaded(true)}
+      /> //changes the state to true
     );
   }
 }

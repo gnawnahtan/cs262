@@ -17,7 +17,7 @@ export default function HomeStack() {
         options={{ title: "GameZone" }}
       />
       <Stack.Screen
-        name="Review Deets"
+        name="ReviewDetails"
         component={ReviewDetails}
         options={{ title: "GameZone" }}
       />
