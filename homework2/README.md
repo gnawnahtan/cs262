@@ -1,8 +1,5 @@
-This homework exercise is based on NetNinja's 
-[Todo application](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
-(lessons 24-26)
+This [homework exercise](https://cs.calvin.edu/courses/cs/262/kvlinden/06hci/homework.html) is based on Prof. Vander Linden's monopoly-client repository 
+[here](https://cs.calvin.edu/courses/cs/262/kvlinden/06hci/homework.html). 
 
 Notes
-- Had to do the upgrades specified in labs 1 & 4 and homework 1.
-- Also had to do some ReactNavigation v5 upgrades.
-- We're skipping forms and modal input.
+- Modified my [lab05](https://github.com/gnawnahtan/cs262/tree/master/lab05) material 
