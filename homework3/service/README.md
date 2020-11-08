@@ -10,8 +10,7 @@ Notes
 ## Questions
 
 - What are the (active) URLs for your data service?
-
-  - Found in [monopolyService.js] (https://github.com/gnawnahtan/cs262/tree/master/homework3/service/), we see that the active "URLs" are the following:
+  - Found in [monopolyService.js](https://github.com/gnawnahtan/cs262/tree/master/homework3/service/), we see that the active "URLs" are the following:
     - https://shrieking-catacombs-33411.herokuapp.com/
     - https://shrieking-catacombs-33411.herokuapp.com/players
     - https://shrieking-catacombs-33411.herokuapp.com/players/:id
@@ -28,7 +27,7 @@ Notes
     1. resource methods like `GET`, `POST`, `PUT`, `DELETE` (the service for this homework supports CRUD)
     2. it's stateless (doesn't use login sessions)
     3. it gives error messages
-    - For example, when there was a typo in my `get` function, the error message "internal service error" showed up and I was able to fix it.
+        - For example, when there was a typo in my `get` function, the error message "internal service error" showed up and I was able to fix it.
 
 - Is there any evidence in your implementation of an impedance mismatch?
   - Hopefully not, at least there aren't any that I'm aware of. From my understanding, my implementation is all object-relational and not object-oriented. Furthermore, using SQL prevents me from using OOP styles.
