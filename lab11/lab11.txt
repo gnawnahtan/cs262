@@ -1,0 +1,15 @@
+# CS-262 Lab 11
+
+For this lab, I used the ES Lint extension for VS Code. 
+
+Note: Here are the following options I chose when using ES Lint: "style, esm, react, no typescript, run in browser, define style using guide, used standard guide, format using Javascript"
+
+I focused my changes on JavaScript...
+  - Changed all double-quotes to single-quotes
+  - Added space in front of comments (as in, after "//"
+  - Kept trailing commas (due to 'prettier' extension' and personal preferences for commas to be safe)
+  - Removed "import { withSafeAreaInsets } from 'react-native-safe-area-context';"
+  - Removed unused font families (e.g. "fontFamily: 'constan' "
+  - Removed duplicate styling for "startNavigationDrawer"
+  - Removed duplicate code in huntBox styling (borderWidth + padding)
+  - Kept the extra semi-colon at the end of the file, due to personal preferences
